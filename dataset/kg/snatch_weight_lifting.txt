@@ -1,0 +1,88 @@
+right_hand close
+left_hand pat
+left_foot step_on
+left_hand lift
+right_arm push
+right_hand clutch
+left_foot tiptoe
+left_arm carry
+hip stoop
+right_arm lift
+right_foot step_on
+right_hand hold dumbbell
+left_hand grab
+head turn
+right_leg stand
+right_hand others table
+right_arm carry
+left_hand applaud
+left_arm swing
+left_leg stand
+left_arm upturn
+hip others
+hip sit chainsaw
+hip others chainsaw
+right_leg bend
+right_arm pull
+right_leg run
+left_arm heft
+left_hand clutch
+left_leg run
+left_hand press
+left_leg walk
+right_leg unbend
+left_hand grab toilet_paper
+right_hand pat
+right_hand hold
+left_hand push
+hip sit
+left_leg unbend
+left_arm push
+right_hand grab
+right_arm swing
+left_hand grab dumbbell
+left_leg step
+left_arm pull
+right_leg walk
+right_leg step
+right_hand grab plastic_bag
+left_hand put_down
+left_leg bend
+left_arm unbend
+head others
+left_hand swing
+left_hand hold
+right_hand grab toilet_paper
+left_hand hold dumbbell
+right_leg jump
+left_leg raise
+left_hand others
+right_arm others
+left_hand claw
+right_leg raise
+left_arm lift
+right_hand lift
+right_hand grab dumbbell
+left_hand take
+right_arm bend
+left_leg others
+right_leg others
+right_foot tiptoe
+right_hand others
+right_hand claw
+right_leg crouch
+right_hand scratch
+right_hand take
+left_hand loosen
+right_arm heft
+right_arm unbend
+right_hand lift basketball
+right_arm upturn
+hip sit bench
+left_arm bend
+left_arm others
+right_hand loosen
+left_leg jump
+right_hand pat basketball
+head raise
+left_leg crouch

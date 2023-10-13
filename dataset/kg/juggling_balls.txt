@@ -1,0 +1,95 @@
+left_arm others ball
+left_foot step_on
+left_foot tiptoe
+right_hand throw fruit
+right_hand grab hat
+right_arm others ball
+right_hand hold ball
+right_arm lift
+left_hand throw fruit
+right_foot step_on
+right_hand catch
+left_hand catch
+left_hand grab
+right_hand throw ball
+head turn
+right_leg stand
+left_hand grab bottle
+left_hand others hand
+left_hand applaud
+left_arm swing
+left_leg stand
+right_hand others hand
+right_hand grab fruit
+hip others
+hip sit chainsaw
+right_leg bend
+right_hand others basketball
+right_leg run
+left_hand throw ball
+left_leg run
+left_leg walk
+right_hand hold arrow
+left_hand catch fruit
+left_arm hug ball
+right_leg unbend
+right_hand hold
+left_hand swing ball
+left_leg unbend
+hip sit
+left_arm push
+hip sit bed
+right_hand swing ball
+right_hand grab
+left_hand throw
+right_arm swing
+left_foot slide
+left_hand grab basketball
+left_leg slide
+hip turn
+left_hand grab drink
+right_leg walk
+right_arm hug ball
+right_leg step
+right_hand grab ball
+left_leg bend
+left_arm unbend
+left_hand swing
+head others
+left_hand hold
+right_hand grab drink
+right_leg jump
+left_leg raise
+right_hand grab arrow
+right_arm others
+left_hand others
+right_leg raise
+right_arm bend
+left_hand hold ball
+left_foot others
+left_hand catch ball
+right_hand throw
+left_leg others
+right_foot tiptoe
+left_hand grab hat
+right_hand others
+right_hand catch ball
+right_leg slide
+right_hand grab basketball
+right_leg crouch
+left_hand grab fruit
+right_hand catch fruit
+right_hand swing
+right_arm unbend
+left_hand grab ball
+right_hand applaud
+right_hand push ball
+right_foot slide skateboard
+hip sit bench
+left_arm bend
+left_arm others
+right_foot slide
+left_leg jump
+left_foot slide skateboard
+head raise
+left_leg crouch

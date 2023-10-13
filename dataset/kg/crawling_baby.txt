@@ -1,0 +1,69 @@
+right_hand close
+left_hand others body
+right_foot others
+hip others
+left_hand plug
+left_hand clap
+left_foot step_on
+right_leg crouch
+left_hand shift
+right_arm push
+left_hand loosen
+right_leg bend
+left_leg bend
+left_hand put_down
+left_hand grab remote_control
+left_arm unbend
+left_foot tiptoe
+left_leg run
+right_hand grab cat
+left_leg walk
+left_hand hold
+right_hand others body
+right_arm unbend
+left_hand others banana
+right_leg unbend
+right_hand others banana
+right_hand plug
+left_hand others waist
+right_hand grab leg
+right_hand hold
+right_arm lift
+left_hand others book
+right_hand feed
+left_hand others
+right_arm others
+left_hand push
+right_hand others waist
+right_foot step_on
+hip sit
+left_arm bend
+left_leg unbend
+left_arm lift
+left_arm others
+left_arm swing
+left_arm push
+head nip
+left_hand grab
+left_leg crouch
+right_arm bend
+head turn
+right_hand grab
+right_arm swing
+right_leg stand
+right_hand push
+left_foot others
+right_hand grab remote_control
+left_leg others
+left_arm pull
+hip turn
+right_leg others
+right_foot tiptoe
+right_leg walk
+right_hand grab footwear
+right_hand others
+right_hand shift
+head raise
+left_hand grab cat
+left_leg stand
+left_hand grab footwear

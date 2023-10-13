@@ -1,0 +1,85 @@
+left_foot step_on
+right_arm push
+right_hand pull
+left_hand pull
+left_foot tiptoe
+left_hand others dumbbell
+left_hand smear dumbbell
+left_arm carry
+right_arm lift
+right_foot step_on
+right_arm lift dumbbell
+right_hand hold dumbbell
+left_hand grab
+left_hand hold toilet_paper
+head turn
+right_leg stand
+right_hand push
+right_arm carry
+left_arm swing
+left_leg stand
+hip others
+right_leg bend
+right_arm pull
+right_leg run
+left_leg run
+left_leg walk
+right_leg unbend
+left_hand grab toilet_paper
+right_hand hold
+left_hand strike
+left_hand push
+left_leg unbend
+hip sit
+left_arm push
+left_hand others couch
+right_hand grab
+right_arm swing
+left_hand grab dumbbell
+left_leg step
+left_hand grab basketball
+left_arm pull
+hip turn
+right_leg walk
+right_leg step
+right_hand grab ball
+left_leg bend
+left_hand hold volleyball
+left_arm unbend
+right_hand others ball
+left_hand snatch
+head others
+left_hand hold
+left_hand hold dumbbell
+right_leg jump
+left_leg raise
+left_hand others
+right_arm others
+right_leg kick
+right_leg raise
+left_arm lift
+right_hand grab dumbbell
+right_arm bend
+left_foot others
+left_leg others
+right_leg others
+right_foot tiptoe
+right_hand others
+left_hand others ball
+right_leg slide
+right_hand grab basketball
+right_leg crouch
+left_leg kick
+left_hand loosen
+right_hand strike
+right_arm unbend
+left_hand grab ball
+hip sit bench
+right_arm hug
+left_arm bend
+left_arm others
+right_foot slide
+right_hand loosen
+left_leg jump
+head raise
+left_leg crouch

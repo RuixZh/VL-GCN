@@ -1,0 +1,117 @@
+right_hand close
+left_hand clap
+left_hand bind
+left_hand pat
+left_foot step_on
+right_hand pull
+left_hand hold dice
+left_hand pull
+left_hand close
+right_hand clutch
+right_hand grab arm
+left_foot tiptoe
+right_hand grab hat
+left_hand grab hand
+left_arm carry
+right_hand strum
+hip stoop
+right_hand grab guitar
+right_arm lift
+hip sit couch
+right_hand smear
+right_foot step_on
+left_hand grab
+right_hand flip
+head turn
+right_hand hold hand
+right_leg stand
+right_hand push
+right_arm carry
+hip others bench
+left_hand others hand
+left_hand applaud
+left_arm swing
+left_leg stand
+right_hand others hand
+right_foot others
+hip others
+left_hand plug
+left_arm hug
+hip sit chainsaw
+right_hand clap
+hip others chainsaw
+right_hand lift hat
+right_leg bend
+right_arm pull
+right_leg run
+left_arm heft
+left_hand clutch
+left_hand grab handbag
+left_leg run
+left_leg walk
+left_hand slice
+right_leg unbend
+left_hand strike musical_keyboard
+right_hand plug
+right_hand pat
+right_hand hold
+left_hand strike
+left_hand push
+left_arm sweep
+right_hand others waist
+right_hand wave
+hip sit
+right_hand smack
+left_leg unbend
+left_hand hold hand
+left_arm push
+left_hand grab guitar
+right_hand grab
+right_arm swing
+left_leg step
+hip turn
+right_leg walk
+left_hand pat hand
+left_hand grab head
+right_leg step
+right_hand grab hand
+left_leg bend
+left_arm unbend
+left_hand grab arm
+left_hand others arm
+head others
+left_hand swing
+left_hand hold
+left_hand smack
+right_leg jump
+left_leg raise
+left_hand others
+right_arm others
+right_leg raise
+left_arm lift
+left_hand smear
+right_hand lift
+left_hand take
+right_arm bend
+left_hand strum
+left_foot others
+left_leg others
+right_leg others
+right_foot tiptoe
+left_hand grab hat
+right_hand others
+left_hand flip
+left_hand shift
+right_hand take
+hip sit table
+left_hand brush
+right_hand strike
+right_arm unbend
+right_hand applaud
+hip sit bench
+right_arm hug
+left_arm bend
+left_arm others
+left_leg jump
+head raise
+right_hand pat hand

@@ -1,0 +1,70 @@
+right_leg step
+right_hand turn
+hip others
+right_foot others
+left_foot step_on
+hip sit chainsaw
+left_hand grab camera
+right_leg crouch
+right_hand take
+left_hand put_down
+left_leg bend
+right_leg bend
+right_hand clutch
+right_arm pull
+right_leg run
+left_arm heft
+left_hand clutch
+left_arm unbend
+left_foot tiptoe
+left_leg run
+left_hand press
+head others
+left_leg walk
+left_hand hold
+right_hand fold hammer
+right_arm unbend
+right_leg unbend
+left_arm carry
+hip stoop
+right_hand hold
+left_hand grab hammer
+right_hand grab hammer
+right_arm lift
+left_leg raise
+left_hand others
+right_arm others
+right_hand loosen hammer
+right_foot step_on
+head shake
+left_leg unbend
+left_arm bend
+hip sit
+left_hand hold hammer
+left_arm others
+left_arm lift
+left_hand grab
+left_leg crouch
+left_hand take
+right_arm bend
+head turn
+right_hand grab
+left_hand throw
+right_arm swing
+right_hand loosen
+right_leg stand
+left_leg step
+left_foot others
+right_hand throw
+left_arm pull
+left_leg others
+hip turn
+right_foot tiptoe
+right_leg walk
+head raise
+left_hand scratch hammer
+right_hand others
+right_hand hold hammer
+left_arm swing
+left_leg stand
+right_hand put_down

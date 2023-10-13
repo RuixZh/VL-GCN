@@ -1,0 +1,75 @@
+hip others
+right_foot others
+left_hand pat
+left_foot step_on
+hip sit chainsaw
+right_leg crouch
+left_hand grab camera
+right_hand grab balloon
+right_hand press
+right_arm push
+right_hand take
+left_leg bend
+right_leg bend
+right_hand clutch
+right_arm heft
+right_leg run
+left_hand clutch
+left_arm unbend
+left_foot tiptoe
+left_leg run
+left_hand press
+head others
+left_leg walk
+left_hand hold
+left_hand grab doll
+right_arm unbend
+right_leg unbend
+left_arm carry
+hip stoop
+left_arm carry shirt
+right_hand hold
+right_hand applaud
+right_leg jump
+left_leg raise
+left_hand others
+right_arm take
+right_hand wave
+right_foot step_on
+right_arm hug
+left_leg unbend
+right_leg raise
+left_arm bend
+hip sit
+left_arm others
+left_hand hold hand
+left_arm push
+left_arm lift
+left_hand grab
+left_hand hold doll
+left_leg crouch
+right_hand grab camera
+left_hand take
+right_arm bend
+head turn
+right_hand grab
+right_hand hold hand
+right_arm swing
+left_leg jump
+right_leg stand
+left_leg step
+left_foot others
+right_hand throw
+left_arm pull
+left_leg others
+hip turn
+right_leg others
+right_foot tiptoe
+right_leg walk
+left_arm take
+right_hand others
+left_hand others hand
+left_arm swing
+right_hand grab doll
+left_leg stand
+head raise

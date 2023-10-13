@@ -1,0 +1,86 @@
+left_foot step_on
+left_hand lift
+right_arm push
+left_hand hold foot
+right_hand pull
+left_hand pull
+right_hand clutch
+left_foot tiptoe
+left_hand hold arm
+left_hand others leg
+left_arm carry
+hip stoop
+right_arm lift
+right_hand grab backpack
+right_foot step_on
+right_hand bleed
+right_hand hold dumbbell
+left_hand grab
+head turn
+right_leg stand
+right_arm carry
+left_arm swing
+left_leg stand
+right_foot others
+hip others
+left_arm hug
+right_hand press
+right_leg bend
+right_arm pull
+right_leg run
+left_hand clutch
+left_hand press
+left_leg walk
+right_leg unbend
+right_hand hold
+left_hand push
+right_hand others waist
+left_leg unbend
+hip sit
+left_arm push
+right_hand grab
+left_hand hold backpack
+right_arm swing
+left_arm pull
+hip turn
+right_leg walk
+left_leg bend
+right_hand hold foot
+left_arm unbend
+left_hand others arm
+right_hand package
+head others
+left_hand hold
+left_hand grab towel
+left_hand hold dumbbell
+right_leg jump
+left_leg raise
+left_hand others
+right_arm others
+right_leg raise
+left_arm lift
+right_hand others leg
+left_hand take
+right_arm bend
+left_foot others
+left_leg others
+right_leg others
+right_foot tiptoe
+right_hand others
+right_hand claw
+left_hand others body
+right_hand grab towel
+right_leg crouch
+right_hand grab handbag
+right_hand take
+left_hand loosen
+right_arm unbend
+right_hand grab foot
+right_arm hug
+left_arm bend
+left_arm others
+right_hand loosen
+left_leg jump
+left_hand grab backpack
+head raise
+left_leg crouch
